@@ -13,3 +13,4 @@ The dataset is provided in a CSV (Comma Separated Values) format, where each row
 * ### Spending Score:
    A score assigned to the customer based on their shopping behavior and spending patterns.
 
+The dataset aims to identify meaningful customer segments or clusters based on their demographic information and spending behavior.
