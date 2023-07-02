@@ -49,3 +49,5 @@ The solution approach involves utilizing the Mall Customer Cluster Dataset to se
 
 6. ### Cluster Analysis:
    Analyze the characteristics and traits of each customer segment to gain insights into their preferences, needs, and behaviors. Compare the clusters to identify distinct groups and their unique characteristics.
+## Conclusion :
+Achieved in a developing a clustering model to group the cluster based on the given data.
